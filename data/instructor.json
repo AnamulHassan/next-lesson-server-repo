@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01",
+    "photoUrl": "https://i.ibb.co/Mg71SyM/image-16.jpg",
+    "name": "Charles Zukoski",
+    "institute": "Provost and Senior Vice President for Academic Affairs, University of Southern California"
+  },
+  {
+    "id": "02",
+    "photoUrl": "https://i.ibb.co/w6pVMqm/image-15.jpg",
+    "name": "Bin Yang",
+    "institute": "Provost, Tsinghua University"
+  },
+  {
+    "id": "03",
+    "photoUrl": "https://i.ibb.co/Ky92Y09/image-14.jpg",
+    "name": "Rob F. Mudde",
+    "institute": "Vice Rector Magnificus, Delft University of Technology"
+  },
+  {
+    "id": "04",
+    "photoUrl": "https://i.ibb.co/JkVkBsH/image-13.jpg",
+    "name": "Debbie Terry",
+    "institute": "Vice Chancellor and President, The University of Queensland"
+  },
+  {
+    "id": "05",
+    "photoUrl": "https://i.ibb.co/gyjS7bq/image-12.jpg",
+    "name": "Benjamin E. Hermalin",
+    "institute": "Executive Vice Chancellor and Provost, University of California, Berkeley"
+  },
+  {
+    "id": "06",
+    "photoUrl": "https://i.ibb.co/9tn87kH/image-10.jpg",
+    "name": "Rob F. Mudde",
+    "institute": "Vice Rector Magnificus, Delft University of Technology"
+  },
+  {
+    "id": "07",
+    "photoUrl": "https://i.ibb.co/RHw0P6F/image-8.jpg",
+    "name": "Ellen Granberg",
+    "institute": "Provost and Senior Vice President for Academic Affairs, Rochester Institute of Technology"
+  },
+  {
+    "id": "08",
+    "photoUrl": "https://i.ibb.co/g3gQrQ1/image-7.jpg",
+    "name": "Alan M. Garber",
+    "institute": "Provost, Harvard University"
+  },
+  {
+    "id": "09",
+    "photoUrl": "https://i.ibb.co/JjRpQyH/image-6.jpg",
+    "name": "Wayne Frederick",
+    "institute": "President, Howard University"
+  },
+  {
+    "id": "10",
+    "photoUrl": "https://i.ibb.co/SsQsKKN/image-5.jpg",
+    "name": "Reginald DesRoches",
+    "institute": "President, Rice University"
+  },
+  {
+    "id": "11",
+    "photoUrl": "https://i.ibb.co/1dBg9d3/image-3.jpg",
+    "name": "Malte Brettel",
+    "institute": "Vice-Rector for Industry Relations, RWTH Aachen University"
+  },
+  {
+    "id": "12",
+    "photoUrl": "https://i.ibb.co/nMYBr5K/image-4.jpg",
+    "name": "Cynthia Barnhart",
+    "institute": "Provost, Massachusetts Institute of Technology"
+  },
+  {
+    "id": "13",
+    "photoUrl": "https://i.ibb.co/vJN3m4Q/image-2.jpg",
+    "name": "Chris Clemens",
+    "institute": "Provost and Chief Academic Officer, UNC Chapel Hill"
+  },
+  {
+    "id": "14",
+    "photoUrl": "https://i.ibb.co/X2Zy4jp/image-1.jpg",
+    "name": "Ellen Granberg",
+    "institute": "Provost and Senior Vice President for Academic Affairs, Rochester Institute of Technology"
+  }
+]

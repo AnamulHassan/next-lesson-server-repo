@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const courses = require('./data/courses.json');
 const coursesCategory = require('./data/category.json');
+const instructor = require('./data/instructor.json');
 const app = express();
 const port = process.env.POST || 5000;
 
@@ -12,6 +13,9 @@ app.get('/category', (request, response) => {
 });
 app.get('/courses', (request, response) => {
   response.send(courses);
+});
+app.get('/about', (request, response) => {
+  response.send(instructor);
 });
 app.get('/courses/:courseId', (request, response) => {
   const id = request.params.courseId;
