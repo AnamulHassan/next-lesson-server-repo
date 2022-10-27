@@ -1,0 +1,830 @@
+[
+  {
+    "id": "101",
+    "categoryId": "01",
+    "rating": "4.5",
+    "enrolled": 1256,
+    "timeRequire": { "week": 12, "perDay": 7 },
+    "courseStatus": "Paid",
+    "courseTitle": "Introduction to Cloud Development with HTML5, CSS3, and JavaScript",
+    "instructor": {
+      "name": "Upkar Lidder",
+      "img": "https://i.ibb.co/Mg71SyM/image-16.jpg"
+    },
+    "atAGlance": {
+      "Institution": "IBM",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/rQFP96C/Introduction-to-Cloud-Development-with-HTML5-CSS3-and-Java-Script.jpg",
+    "courseDetails": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge! Want to take the first steps to become a Cloud Application Developer? This self-paced online course will lead you through the programming languages and tools you will need to develop your own Cloud and Web Applications. Beginning with an explanation of how internet servers, and clients work together to deliver applications to users, this course takes you through the context for application development in the Cloud, introducing front-end, back-end, and full stack development. You’ll then focus on the languages you need for front-end development, working with HTML5, CSS3, and JavaScript. Finally, you will discover tools such as Git, GitHub, and GitLab, that help you to store your projects and keep track of changes made to project files (version control) and enable collaboration and continuos deployment."
+  },
+  {
+    "id": "102",
+    "categoryId": "01",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 10, "perDay": 4 },
+    "courseStatus": "Free",
+    "courseTitle": "CSS Basics",
+    "instructor": {
+      "name": "Kasey Champion",
+      "img": "https://i.ibb.co/JkVkBsH/image-13.jpg"
+    },
+    "atAGlance": {
+      "Institution": "W3C",
+      "Subject": "Computer Science",
+      "Level": " Introductory",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/y5d4rLT/CSS-Basics.jpg",
+    "courseDetails": "Have you just begun your journey into Web development? This course introduces you to the basics of Web design and teach you how to style your Web site for a professional look and feel.  In this course, we guide you step-by-step in using the latest Web standards to structure your content and presentation like a professional. You will explore numerous CSS features to help you control the look and feel of your site such as colors, fonts and layout. By the end of the course, you should understand all the fundamental elements of CSS and how to use them effectively.  It is recommended that you are at least a little familiar with HTML before taking this course, but we are providing you with the HTML code when necessary."
+  },
+  {
+    "id": "103",
+    "categoryId": "01",
+    "rating": "4.7",
+    "enrolled": 2356,
+    "timeRequire": { "week": 8, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Building Web Applications in Django",
+    "instructor": {
+      "name": "Charles Severance",
+      "img": "https://i.ibb.co/JjRpQyH/image-6.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Michigan",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/fv8ssdp/Building-Web-Applications-in-Django.jpg",
+    "courseDetails": "In this course, you will learn how Django communicates with a database through model objects. You will explore Object-Relational Mapping (ORM) for database access and how Django models implement this pattern. We will review the Object-Oriented (OO) pattern in Python. You will learn basic Structured Query Language (SQL) and database modeling, including one-to-many and many-to-many relationships and how they work in both the SQL and Django models. You will learn how to use the Django console and scripts to work with your application objects interactively."
+  },
+  {
+    "id": "104",
+    "categoryId": "01",
+    "rating": "3.9",
+    "enrolled": 3475,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Developing Cloud Native Applications",
+    "instructor": {
+      "name": "Upkar Lidder",
+      "img": "https://i.ibb.co/w6pVMqm/image-15.jpg"
+    },
+    "atAGlance": {
+      "Institution": "IBM",
+      "Subject": "Computer Science",
+      "Level": " Intermediate",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/3C1qBXr/Developing-Cloud-Native-Applications.jpg",
+    "courseDetails": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge! Knowledge and practice of Cloud Native methodologies and tools is a must for modern software development lifecycle whether you are starting your career in Cloud Development or upskilling your programming knowledge. In this course you will get and overview and grounding in Cloud Native application development and DevOps practices. You will become familiar with tools and services for continuous delivery and deployment of applications on Cloud. This course contains several hands-on labs that will enable you to practice what you learn with Cloud based tools and services in a no-charge IBM Cloud account. You will also understand how REST APIs work and their JSON data format. Moreover, you’ll interact with examples of using REST APIs with IBM Watson AI services. And as a modern developer, you will utilize a Web IDE and Git to create and manage your code. Furthermore, you will create and deploy a Node.js application on public cloud, that uses REST APIs to store and access data in a NoSQL Cloudant database."
+  },
+  {
+    "id": "105",
+    "categoryId": "01",
+    "rating": "4.8",
+    "enrolled": 12933,
+    "timeRequire": { "week": 12, "perDay": 9 },
+    "courseStatus": "Paid",
+    "courseTitle": "Full Stack Application Development Project",
+    "instructor": {
+      "name": "Yan Luo",
+      "img": "https://i.ibb.co/Ky92Y09/image-14.jpg"
+    },
+    "atAGlance": {
+      "Institution": "IBM",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/GJ1xV88/Full-Stack-Application-Development-Project.png",
+    "courseDetails": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge! In this project you will apply your knowledge of front end and back end development to build and deploy a full stack real-world web application on the cloud. Your project will showcase your understanding of the user experience and user interface design process, and your skills and technologies with Django, Python, Node.JS and Containers. After completing this project, you will have gained hands-on practical experience with a real-world project and be able to demonstrate your proficiency of front end and back end skills to potential employers."
+  },
+  {
+    "id": "106",
+    "categoryId": "01",
+    "rating": "4.3",
+    "enrolled": 23002,
+    "timeRequire": { "week": 10, "perDay": 5 },
+    "courseStatus": "Free",
+    "courseTitle": "Product Design, Prototyping, and Testing",
+    "instructor": {
+      "name": "Cait von Schnetlage",
+      "img": "https://i.ibb.co/X2Zy4jp/image-1.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UMD, USM",
+      "Subject": "Business & Management",
+      "Level": " Introductory",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/J3R1tJj/Product-Design-Prototyping-and-Testing.jpg",
+    "courseDetails": "Designing the customer and user experience is essential to creating great products today. Gone is the old paradigm of “form follows function” model of design. The process must be iterative and follow the best product design and development processes. While designing a great user experience can be a lengthy and expensive process, there are approaches to doing it faster and smarter, without compromising results. This essential product management course explains key design thinking principles around personas, story mapping, and prototyping. Product managers need to know and appreciate product designer tools and processes. By combining these principles with good scrum processes, you’ll learn to create great products that don’t sacrifice design for functionality or feasibility. This course enables students to transition from ideas to prototyping and concept testing of their products and services. Students learn how best to effectively translate ideas into marketable offerings so that the best product and service ideas are harnessed and create real value for customers and the organization. Emphasis is placed on an integrated and interdisciplinary approach to engineering design, concurrent engineering, design for manufacturing, industrial design, and the business of new product development. Topics include design methods, modeling and simulation, material and manufacturing process selection, platform and modular design, mass customization, planning and scheduling."
+  },
+  {
+    "id": "201",
+    "categoryId": "02",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 13, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Introduction to Data Structures",
+    "instructor": {
+      "name": "Aspen Olmsted",
+      "img": "https://i.ibb.co/vJN3m4Q/image-2.jpg"
+    },
+    "atAGlance": {
+      "Institution": "NYU",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/DY92pVj/algorithms-and-data-structures-banner.png",
+    "courseDetails": "This is the 3rd course in the intermediate, undergraduate-level offering that makes up the larger Programming and Data Structures MicroBachelors program. We recommend taking them in order, unless you have a background in these areas already and feel comfortable skipping ahead. Introduction to Programming in C++ These topics build upon the learnings that are taught in the introductory-level Computer Science Fundamentals MicroBachelors program, offered by the same instructor. This is a self-paced course that continues in the development of C++ programming skills. Among the topics covered is the development of more advanced command-line programs that utilize Pointers, Dynamic Storage, Recursion, Searching, Sorting to solve problems. Students learn how to use and program these data structures through the lectures and the labs. C++ programming material is presented over eight weeks of interactive lectures with quizzes to assess your understanding of the material Students will experience hands-on practice writing C++ programs through fourteen lab challenges. Students will not only learn to use data structures to organize, manage, and storage in formats that enable efficient access and modification. A data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data."
+  },
+  {
+    "id": "202",
+    "categoryId": "02",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Paid",
+    "courseTitle": "Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues",
+    "instructor": {
+      "name": "Mary Hudachek-Buswell",
+      "img": "https://i.ibb.co/nMYBr5K/image-4.jpg"
+    },
+    "atAGlance": {
+      "Institution": "GTx",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | Basic knowledge of the Java programming language and object oriented principles. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/kyXpNbk/Data-Structures-Algorithms.png",
+    "courseDetails": "The Data Structures & Algorithms course begins with a review of some important Java techniques and nuances in programming. The course requires some prior knowledge of Java and object-oriented programming, but not in data structures or algorithms. This course introduces you to time complexity, and threads this concept throughout all data structures and algorithms presented in the course. You will work with the principles of data storage in Arrays and LinkedList nodes. You will program the low-level data structures: Singly, Circular and Doubly LinkedLists; and explore edge cases and efficiencies. LinkedLists and Arrays are used to implement Abstract Data Types, ADTs: Stacks, Queues and Deques. Harnessing the power of recursion to move through these data structures is necessary. As the size changes in your data structures, it becomes important to examine amortized analysis of the operations.  The course design has several components and is built around modules. A module consists of a series of short (3-5 minute) instructional videos. In between the videos, there are textual frames with additional content information for clarification, as well as video errata dropdown boxes. All modules include an Exploratory Lab that incorporates a Visualization Tool specifically designed for this course. The lab includes discovery questions that lead you towards delving deeper into the efficiency of the data structures and examining the edge cases. This is followed by a set of comprehension questions on topics covered in the module that count for 10% of your grade. The modules end with Java coding assignments which are 60% of your grade. Lastly, you'll complete a course exam, which counts for the remaining 30% of your grade.  This is a great course that has been derived from the on-campus version of CS1332 at the Georgia Institute of Technology, and is backed with an impressive reputation."
+  },
+  {
+    "id": "203",
+    "categoryId": "02",
+    "rating": "4.7",
+    "enrolled": 2356,
+    "timeRequire": { "week": 6, "perDay": 4 },
+    "courseStatus": "Free",
+    "courseTitle": "Python Data Structures",
+    "instructor": {
+      "name": "Charles Severance",
+      "img": "https://i.ibb.co/gyjS7bq/image-12.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Michigan",
+      "Subject": " Computer Science",
+      "Level": " Introductory",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/4P78w38/Python-Data-Structures.jpg",
+    "courseDetails": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook 'Python for Everybody'. This course covers Python 3."
+  },
+  {
+    "id": "204",
+    "categoryId": "02",
+    "rating": "3.9",
+    "enrolled": 3475,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps",
+    "instructor": {
+      "name": "Jary Hudachek-Vuswell",
+      "img": "https://i.ibb.co/1dBg9d3/image-3.jpg"
+    },
+    "atAGlance": {
+      "Institution": "GTx",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/Y8Nj4N5/Data-Structures-Algorithms-2.jpg",
+    "courseDetails": "This Data Structures & Algorithms course extends beyond linear data structures in CS1332xI to the nonlinear and hierarchical data structures here in CS1332xII. A short Java review is presented on topics relevant to new data structures covered in this course. The course does require prior knowledge of Java, object-oriented programming and linear data structures. Time complexity is threaded throughout the course within all the nonlinear data structures and algorithms.  You will explore the hierarchical data structure of trees. Trees have important properties such as shape and order which are used to categorize trees into different groups and define their functionality. The course begins by explaining Binary Trees and two subgroups: Binary Search Trees (BSTs) and Binary Heaps. You will program BSTs, their operations and traversal algorithms. BSTs are an important structure when wanting to access information quickly. Heaps approach access differently and prioritize what data is accessed. Heaps also employ the concept of up-heap and down-heap operations not found in other structures.  HashMaps and SkipLists are the last data structures discussed in the course. The HashMap ADT is a collection of key-value pairs. The key-value pairs are stored in an unordered manner based on hash codes and compression functions that translate keys into integers. You will investigate different collision strategies and implement one. SkipLists are a probabilistic data structures where data is placed in the structure based on a randomization procedure.  The course design has several components and is built around modules. A module consists of a series of short (3-5 minute) instructional videos. In between the videos, there are textual frames with additional content information for clarification, as well as video errata dropdown boxes. All modules include an Exploratory Lab that incorporates a Visualization Tool specifically designed for this course. The lab includes discovery questions that lead you towards delving deeper into the efficiency of the data structures and examining the edge cases. This is followed by a set of comprehension questions on topics covered in the module that count for 10% of your grade. The modules end with Java coding assignments which are 60% of your grade. Lastly, you'll complete a course exam, which counts for the remaining 30% of your grade."
+  },
+  {
+    "id": "205",
+    "categoryId": "02",
+    "rating": "4.8",
+    "enrolled": 12933,
+    "timeRequire": { "week": 9, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "UML Class Diagrams for Software Engineering",
+    "instructor": {
+      "name": "Monique Snoeck",
+      "img": "https://i.ibb.co/RHw0P6F/image-8.jpg"
+    },
+    "atAGlance": {
+      "Institution": "KULeuven",
+      "Subject": "Computer Science",
+      "Level": " Introductory",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/jR7jf57/UML-Class-Diagrams.jpg",
+    "courseDetails": "Have you ever wondered how software architects, requirements engineers and business analysts sketch and draw out their plans for a software system?  In this computer science course, you will gain an in-depth understanding on how to read and evaluate Unified Modeling Language (UML) class diagrams, as they are used to visually represent the conceptual design of a system. You will learn about UML class diagrams and how they are used to map out the structure of a business domain by showing business objects, their attributes, and associations.  Taught by an instructor with decades of experience in requirements engineering and domain modelling, this course will equip you with the skill of in-depth understanding of a UML class diagram and will enable you to judge the functional fit of a UML class diagram as blueprint for the development of an enterprise information system.  The Unified Modeling Language (UML) has become an in-demand skill in software development and engineering. In fact, some of today’s top jobs, i.e. business analysts, enterprise architects, but also developers, technical consultants and solutions architects, require UML knowledge. Enroll today and gain knowledge in an in-demand skill that will help set you apart from the competition."
+  },
+  {
+    "id": "206",
+    "categoryId": "02",
+    "rating": "4.3",
+    "enrolled": 23002,
+    "timeRequire": { "week": 8, "perDay": 8 },
+    "courseStatus": "Paid",
+    "courseTitle": "Introduction to Java Programming: Fundamental Data Structures and Algorithms",
+    "instructor": {
+      "name": "Carlos Delgado Kloos",
+      "img": "https://i.ibb.co/9tn87kH/image-10.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UC3Mx",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "Basic computer literacy. | Introduction to Programming with Java. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/BgNnyMT/Introduction-to-Java-Programming.jpg",
+    "courseDetails": "In this introductory course, you will learn programming with Java in an easy and interactive way.  You will learn about fundamental data structures, such as lists, stacks, queues and trees, and presents algorithms for inserting, deleting, searching and sorting information on these data structures in an efficient way.  Emphasis is put on immediate feedback and on having a fun experience. Programming knowledge is not only useful to be able to program today’s devices such as computers and smartphones. It also opens the door to computational thinking, i.e. the application of computing techniques to every-day processes.  This course is designed taking into account the subset and recommendations of the College Board in order to prepare learners for the Advanced Placement (AP) Computer Science A exam."
+  },
+  {
+    "id": "301",
+    "categoryId": "03",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 13, "perDay": 6 },
+    "courseStatus": "Paid",
+    "courseTitle": "Introduction to video game development with Unity",
+    "instructor": {
+      "name": "Jordi Linares Pellicer",
+      "img": "https://i.ibb.co/vJN3m4Q/image-2.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UPValencia",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | The examples will be developed with C# and a brief introduction to the language will also be part of the contents. | You have basic previous knowledge in programming you will not have big problems in following the course.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/Lx9J9f1/unity.jpg",
+    "courseDetails": "Never before has the video game market been at a better time. There are currently many platforms available and the emergence of mobile devices has revolutionized the sector.  The existence of multiple platforms implies great challenges for developers in decision making, both in the choice of platforms and in the sizing of work teams.  One solution to these problems is to use a game engine, and without a doubt the most popular and used engine of the moment is Unity.  Unity is the most popular engine for reasons such as its powerful tools, its ability to generate games on more than 20 different platforms, its excellent learning curve and the hundreds of add-ons available to it developed by third parties."
+  },
+  {
+    "id": "302",
+    "categoryId": "03",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "HTML5 Apps and Games",
+    "instructor": {
+      "name": "Michel Buffa",
+      "img": "https://i.ibb.co/g3gQrQ1/image-7.jpg"
+    },
+    "atAGlance": {
+      "Institution": "W3Cx",
+      "Subject": "Computer Science",
+      "Level": " Advanced",
+      "Prerequisites": "HTML5 & CSS Fundamentals | HTML5 Coding Essentials and Good Practices | JavaScript Introduction & CSS Basics",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/nQm5MfD/HTML5-Apps-and-Games.jpg",
+    "courseDetails": "Want to learn advanced HTML5 tips and techniques? This is the course for you! Find out more about the powerful Web features that will help you create great content and apps.  This course is a natural follow up of HTML5 Coding Essentials and Good Practices. In this course, we continue the exploration of HTML5-based APIs, but also introduce some advanced features related to HTML5, such as Web components, advanced multimedia, audio for music and games, etc.  Like in the first course, you will learn by doing, study the interactive examples and have fun with proposed development projects. One of them will be to create an HTML5 game, so jump in and learn lots!"
+  },
+  {
+    "id": "303",
+    "categoryId": "03",
+    "rating": "4.7",
+    "enrolled": 2356,
+    "timeRequire": { "week": 11, "perDay": 4 },
+    "courseStatus": "Paid",
+    "courseTitle": "CS50's Introduction to Game Development",
+    "instructor": {
+      "name": "David j.Malan",
+      "img": "https://i.ibb.co/Mg71SyM/image-16.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Harvard",
+      "Subject": " Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic computer literacy. | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/SmYVvqp/CS50-G-pll.jpg",
+    "courseDetails": "In a quest to understand how video games themselves are implemented, you'll explore the design of such childhood games as: Super Mario Bros, Pong, Flappy Bird, Breakout. Match 3, Legend , Zelda, Angry Birds, Pokémon, 3D Helicopter Game, Dreadhalls, Portal "
+  },
+  {
+    "id": "304",
+    "categoryId": "03",
+    "rating": "3.9",
+    "enrolled": 3475,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Paid",
+    "courseTitle": "Getting Started with Unreal Engine",
+    "instructor": {
+      "name": "Shaun Foster",
+      "img": "https://i.ibb.co/JjRpQyH/image-6.jpg"
+    },
+    "atAGlance": {
+      "Institution": "RITx",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "Some previous experience with 3D design. | This is the 1st part of a 3-part certificate. | Programming concepts would be helpful. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/s9Qybwm/Unreal-Engine.jpg",
+    "courseDetails": "In this course, you’ll be introduced to the Unreal Engine 4, a popular platform for game development and creation of cutting-edge 3D environments in real-time, video games, VR/AR, training, architectural visualization, and many other growing fields.  Through a step-by-step process with videos as quick-start guides, you will become familiar with the core interface and learn how to import objects and set them up in the unreal engine. Next, you’ll dive into the key skill areas of lighting, materials, and physics simulations. The course will conclude with a discussion of post processing. You’ll apply these skills for everything from color grading (next-gen film making), vfx (visual effects) or interface design (creating lines around 3D objects).  The content in this course will prepare you for the exciting work of interactive 3D development, covered in the next course."
+  },
+  {
+    "id": "305",
+    "categoryId": "03",
+    "rating": "4.8",
+    "enrolled": 12933,
+    "timeRequire": { "week": 9, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Creating Virtual Reality (VR) Apps",
+    "instructor": {
+      "name": "Jurgen P.Schulze",
+      "img": "https://i.ibb.co/SsQsKKN/image-5.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UCSanDiego",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic linear algebra skills in vector and matrix mathematics. |  Coordinate system transformations. | Basic programming experience in C, C++ or C#",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/F8m9yny/Virtual-Reality.jpg",
+    "courseDetails": "Build professional VR apps using Unity 3D, a powerful cross-platform 3D engine that provides a user-friendly development environment. In this course, part of the Virtual Reality Professional Certificate program, you will learn how to build a VR engine from the ground up, so you fully understand the entire rendering pipeline from 3D model to pixels in the VR display. We will also cover motion prediction, 3D stereo, lens distortion, time warp and other optimizations for a fluid, realistic VR experience.  You will also learn how to implement the most important VR interaction concepts such as selection, manipulation, travel, wayfinding, menus, and text input in Unity.  Unity is a GUI based programming environment, in which much of the programming can be done through dialog windows. It also supports scripts written in C#, which as we will show will allow for more complex VR functionality.  What you learn about VR programming in this course will help you write VR games, architectural walkthroughs, engineering simulations, 3D data viewers, medical training applications, and many more."
+  },
+  {
+    "id": "306",
+    "categoryId": "03",
+    "rating": "4.3",
+    "enrolled": 23002,
+    "timeRequire": { "week": 8, "perDay": 8 },
+    "courseStatus": "Free",
+    "courseTitle": "Computer Graphics",
+    "instructor": {
+      "name": "Ravi Ramamoorthi",
+      "img": "https://i.ibb.co/9tn87kH/image-10.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UCSanDiego",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Solid C/C++ programming background (Java is ok too; you will pick up C++) | Access to a relatively up-to-date computer (Windows, Mac OS, Linux) | Solid high school mathematics; a review of the relevant linear algebra is included in the first segment.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://i.ibb.co/mq6BfYc/Computer-Graphics.png",
+    "courseDetails": "In this introductory course, you will learn programming with Java in an easy and interactive way.  You will learn about fundamental data structures, such as lists, stacks, queues and trees, and presents algorithms for inserting, deleting, searching and sorting information on these data structures in an efficient way.  Emphasis is put on immediate feedback and on having a fun experience. Programming knowledge is not only useful to be able to program today’s devices such as computers and smartphones. It also opens the door to computational thinking, i.e. the application of computing techniques to every-day processes.  This course is designed taking into account the subset and recommendations of the College Board in order to prepare learners for the Advanced Placement (AP) Computer Science A exam."
+  },
+  {
+    "id": "401",
+    "categoryId": "04",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 13, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Marketing your Android apps",
+    "instructor": {
+      "name": "Jojo Giuffra",
+      "img": "https://i.ibb.co/vJN3m4Q/image-2.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Galileo",
+      "Subject": "Engineering",
+      "Level": "Intermediate",
+      "Prerequisites": "This course is designed for people who want to learn about monetizing mobile applications, | It is not a programming course, | Knowledge in mobile applications development is required to fully understand the course content.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/Tybhau.jpg",
+    "courseDetails": "Almost anyone who is developing Android Applications thinks about the possibility of selling it for profit. The App developing industry is booming and there is plenty of room for people to get in on the action. However, even though it sounds straight-forward, selling Apps is actually quite difficult.  Probably the most obvious way to get started is selling access to it, but it isn’t the only way to do it. In this course you will find several ways that can prove to be extremely profitable.  Learn how to promote and monetize your apps. This course presents the best practices of advertising, monetizing and publishing your app. It also covers an introduction to business models that will help you make money from an app using Google AdMob, and Google’s mobile advertising platform specifically designed for mobile apps."
+  },
+  {
+    "id": "402",
+    "categoryId": "04",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Applications of TinyML",
+    "instructor": {
+      "name": "Vijay Janapa Reddi",
+      "img": "https://i.ibb.co/g3gQrQ1/image-7.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Harvard",
+      "Subject": "Data Analysis & Statistics",
+      "Level": "Intermediate",
+      "Prerequisites": "Fundamentals of TinyML course or sufficient relevant. | Basic Scripting in Python | Basics of Machine Learning. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TybT1w.jpg",
+    "courseDetails": "Do you know what happens when you say “OK Google” to a Google device? Is your Google Home always listening?  Following on the Foundations of Tiny ML course, Applications of TinyML will give you the opportunity to see tiny machine learning applications in practice. This course features real-world case studies, guided by industry leaders, that examine deployment challenges on tiny or deeply embedded devices.  Dive into the code for using sensor data for tasks such as gesture detection and voice recognition. Focusing on the neural network of the applications, specifically on training and inference, you will review the code behind “OK Google,” “Alexa,” and smartphone features on Android and Apple . Learn about real-word industry applications of TinyML as well as Keyword Spotting, Visual Wake Words, Anomaly Detection, Dataset Engineering, and Responsible Artificial Intelligence.  Tiny Machine Learning (TinyML) is one of the fastest-growing areas of deep learning and is rapidly becoming more accessible. The second course in the TinyML Professional Certificate program, Applications of TinyML shows you the code behind some of the world’s most widely-used TinyML devices."
+  },
+  {
+    "id": "403",
+    "categoryId": "04",
+    "rating": "4.7",
+    "enrolled": 2356,
+    "timeRequire": { "week": 11, "perDay": 4 },
+    "courseStatus": "Paid",
+    "courseTitle": "Introduction to Linux",
+    "instructor": {
+      "name": "Jerry Cooperstein",
+      "img": "https://i.ibb.co/Mg71SyM/image-16.jpg"
+    },
+    "atAGlance": {
+      "Institution": "LinuxFoundation",
+      "Subject": " Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "None. However, the course does assume familiarity with computers and common software | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/Tybdqi.jpg",
+    "courseDetails": "Develop a good working knowledge of Linux using both the graphical interface and command line, covering the major Linux distribution families.  Linux powers 100% of the world’s supercomputers, most of the servers powering the Internet, the majority of financial trades worldwide and over two billion Android devices. In short, Linux is everywhere. It appears in many different architectures, from mainframes to server to desktop to mobile and on a staggeringly wide variety of hardware.  Moreover, 80 percent of hiring managers reported that they will prioritize hiring Linux talent relative to other skills areas, and 47 percent of hiring managers say they’re more likely to hire a candidate with Linux certification.  This course explores the various tools and techniques commonly used by Linux system administrators and end users to achieve their day-to-day work in a Linux environment. It is designed for experienced computer users who have limited or no previous exposure to Linux, whether they are working in an individual or Enterprise environment.  Upon completion of this training you should have a good working knowledge of Linux, from both a graphical and command line perspective, allowing you to easily navigate through any of the major Linux distributions. You will be able to continue your progress as either a user, system administrator or developer using the acquired skill set.  Join the 1,000,000+ learners who are already enrolled in this course and start your Linux journey."
+  },
+  {
+    "id": "404",
+    "categoryId": "04",
+    "rating": "3.9",
+    "enrolled": 3475,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Paid",
+    "courseTitle": "Java Programming Fundamentals",
+    "instructor": {
+      "name": "Victor Orozco",
+      "img": "https://i.ibb.co/JjRpQyH/image-6.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Galileo",
+      "Subject": " Engineering",
+      "Level": "Intermediate",
+      "Prerequisites": "This program is designed to attract an audience as: Developers or anyone interested in building Java applications. | This is the 1st part of a 3-part certificate. | Technical professionals familiar with a programming language object-oriented.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TybChk.jpg",
+    "courseDetails": "Java is one of the most in-demand programming languages today. This course is designed to provide students the basic skills and knowledge on Java.  Learn how to solve programming problems using functions, for loops, conditional statements, recursive algorithms, and learn about the Object-Oriented Paradigm (OPP)."
+  },
+  {
+    "id": "405",
+    "categoryId": "04",
+    "rating": "4.8",
+    "enrolled": 12933,
+    "timeRequire": { "week": 9, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Developing Cloud Applications with Node.js and React",
+    "instructor": {
+      "name": "Upkar Lidder",
+      "img": "https://i.ibb.co/SsQsKKN/image-5.jpg"
+    },
+    "atAGlance": {
+      "Institution": "IBM",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Basic HTML, CSS & JavaScript Skills. |  Basic understanding of Cloud. | Basic understanding of Cloud DevOps and Git concepts. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/Tyb50l.jpg",
+    "courseDetails": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  In this course you will learn how to develop and deploy full-stack web applications several JavaScript frameworks. You will start by creating backend server-side applications using Node.js and Express. You will then develop a front-end user interface (UI) using ES6 and the React JavaScript library, and deploy your application to the IBM cloud platform.  Node.js is an event-driven JavaScript web application server framework and relies on callback functions to handle network calls in an asynchronous manner. The application you create will employ asynchronous callback functions to act upon network events in the runtime environment.  You will learn how to invoke Web Services, parse with JSON data and integrate with Cloud APIs to add AI capabilities to your application. You will also practice DevOps and GitHub concepts to enable continuous delivery of your application.  This course is ideal for those who want to start a career in Cloud Development or developers who want to update their skills with current Cloud programming technologies and practices.  It is highly recommended that you complete other courses in the IBM Cloud Application Development Foundations Professional Certificate prior to starting this course. The course requires prior basic knowledge of HTML5, JavaScript, DevOps, Git, and fundamental concepts in Cloud programming.  After completing this course you will be able to create modern applications using Cloud Native concepts."
+  },
+  {
+    "id": "406",
+    "categoryId": "04",
+    "rating": "4.3",
+    "enrolled": 23002,
+    "timeRequire": { "week": 8, "perDay": 8 },
+    "courseStatus": "Free",
+    "courseTitle": "Developing Cloud Native Applications",
+    "instructor": {
+      "name": "Ravi Ramamoorthi",
+      "img": "https://i.ibb.co/9tn87kH/image-10.jpg"
+    },
+    "atAGlance": {
+      "Institution": "IBM",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Familiarity with Cloud concepts and terminology. | Basic literacy in Cloud Application Development. | Basic knowledge of HTML and Javascript. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TybbxF.jpg",
+    "courseDetails": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  Knowledge and practice of Cloud Native methodologies and tools is a must for modern software development lifecycle whether you are starting your career in Cloud Development or upskilling your programming knowledge.  In this course you will get and overview and grounding in Cloud Native application development and DevOps practices. You will become familiar with tools and services for continuous delivery and deployment of applications on Cloud.  This course contains several hands-on labs that will enable you to practice what you learn with Cloud based tools and services in a no-charge IBM Cloud account.  You will also understand how REST APIs work and their JSON data format. Moreover, you’ll interact with examples of using REST APIs with IBM Watson AI services. And as a modern developer, you will utilize a Web IDE and Git to create and manage your code.  Furthermore, you will create and deploy a Node.js application on public cloud, that uses REST APIs to store and access data in a NoSQL Cloudant database."
+  },
+  {
+    "id": "501",
+    "categoryId": "05",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 13, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Bitcoin and Cryptocurrencies",
+    "instructor": {
+      "name": "Mengyi Wang",
+      "img": "https://i.ibb.co/nMYBr5K/image-4.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Berkeley",
+      "Subject": "Engineering",
+      "Level": " Introductory",
+      "Prerequisites": "This course has no formal prerequisites. | However, cryptocurrency and blockchain are technical in nature. | So coming into the course with knowledge of computer science or cryptography will be helpful.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyU9Mr.jpg",
+    "courseDetails": "Developed by Blockchain at Berkeley and faculty from UC Berkeley's premier Computer Science department, this course presents Bitcoin and cryptocurrencies as the motivation for blockchain technologies, and provides a comprehensive and in-depth overview of the fundamental concepts of the crypto space with a particular emphasis on Bitcoin.  The course covers basic properties of bitcoin, the mechanics behind it (e.g. including cryptographic hash functions, Bitcoin Script, privacy, and hash commitment schemes) and its roots in the Cypherpunk movement and Libertarian ideals. You'll learn about practical applications of Bitcoin such as wallets and mining, as well as how to destroy bitcoins, including network attacks and malicious mining strategies. We will also take a brief look at Ethereum and how blockchain can be used outside of cryptocurrencies.  This course is open to anyone with any background. Whether you are planning your next career move as a blockchain developer, crypto trader, data analyst, researcher, or consultant, or are just looking for an introduction to the Bitcoin technology. This course will help you to begin developing the critical skills needed to future-proof your career.  This course is part of the Blockchain Fundamentals Professional Certificateprogram. If you are planning to enroll in the entire series, we suggest starting with this course and then progressing on to CS198.2x Blockchain Technology."
+  },
+  {
+    "id": "502",
+    "categoryId": "05",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Blockchain Technology",
+    "instructor": {
+      "name": "Nadir Akhtar",
+      "img": "https://i.ibb.co/gyjS7bq/image-12.jpg"
+    },
+    "atAGlance": {
+      "Institution": "Berkeley",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "Students are expected to have taken the previous course in the series. | Cryptocurrencies: Bitcoin and the Crypto Space. |  Having similar experience and knowledge in this domain. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyUhIE.jpg",
+    "courseDetails": "Developed by Blockchain at Berkeley and faculty from UC Berkeley's premier Computer Science department, this course provides a wide overview of many of the topics relating to and building upon the foundation of Bitcoin and blockchain technology.  The course covers many key topics in the blockchain space. First, we take a look at distributed systems and alternative consensus mechanisms, as well as cryptoeconomic and proof-of-stake. We then move on to the fundamental applications of bitcoin and blockchain technology, including exploring enterprise blockchain implementations (JP Morgan’s Quorum, Ripple, Tendermint, and HyperLedger), the challenges and solutions around scaling blockchain adoption, and the measures that the government is taking to regulate and control blockchain technology. We wrap up the course by also taking a look at the various blockchain ventures today and conclude with a blockchain-based future thought experiment.  This course is open to anyone with any background. Whether you are planning your next career move as a blockchain developer, crypto trader, data analyst, researcher, or consultant, or are just looking for an introduction to Blockchain.This course will help you beginto develop the critical skills needed to future-proof your career.  This is the second course in the Blockchain Fundamentals Professional Certificate program."
+  },
+  {
+    "id": "503",
+    "categoryId": "05",
+    "rating": "4.7",
+    "enrolled": 2356,
+    "timeRequire": { "week": 11, "perDay": 4 },
+    "courseStatus": "Paid",
+    "courseTitle": "Blockchain: Understanding Its Uses and Implications",
+    "instructor": {
+      "name": "Bobbi Muscara",
+      "img": "https://i.ibb.co/RHw0P6F/image-8.jpg"
+    },
+    "atAGlance": {
+      "Institution": "LinuxFoundation",
+      "Subject": "Business & Management",
+      "Level": "Introductory",
+      "Prerequisites": "However, the course does assume familiarity with computers and common software | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyUbBh.jpg",
+    "courseDetails": "Blockchain technology is changing how businesses operate. With trust built into blockchain solutions, it is important to understand how this new technology is different and how it works in comparison with technologies of the past.  First, we cover the main concepts of what blockchain is and some of its major characteristics. We take you through the important players in this diverse community. We discuss how it began, first introduced for the administration of the Bitcoin cryptocurrency, and how it is now applied to all aspects of business including government, banking, supply chains, and other industries.  Next, we analyze the mechanics of blockchains and how they work. We will cover the concept of transparent ledgers, public and permissioned, and focus on using cryptography to achieve consensus, immutability, and transparency. This is all part of blockchain's ability to provide 'trusted data from untrusted sources', disrupting traditional accounting methodologies and international trade.  We will cover some of the functions of blockchain. You will discover the power of the smart contract, the building blocks for transactions on the blockchain. You will gain an understanding of the different blockchain structures and how start up decisions influence how your blockchain deals with security, identity, consensus, and governance.  We then dive into the various methods of blockchain governance. You will understand how different governance models dictate how your blockchain operates, and gain insight into consortiums and how this transformative technology is creating new avenues of communication.  Next, we examine the problems blockchain solves that have been difficult to overcome in the past with more centralized architectures, discovering how blockchain tackles the double spend issue, creates autonomy and transparency while facilitating innovative ways for multiple parties to interact. You will then discover the new and creative ways blockchain is changing the future. New insights and models dealing with Identity will be explored. You will look at trends in Decentralized Finance, NFT (non-fungible tokens), CBDC (central bank digital currencies) and how the push for interoperability between blockchains is becoming increasingly important.  Finally, we take a deep dive into the various use cases of blockchain, complete with analyzing real examples of how different industries are executing the technology and opening up new avenues for improving their businesses."
+  },
+  {
+    "id": "504",
+    "categoryId": "05",
+    "rating": "3.9",
+    "enrolled": 3475,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Blockchain and FinTech: Basics, Applications, and Limitations",
+    "instructor": {
+      "name": "Siu Ming Yiu",
+      "img": "https://i.ibb.co/w6pVMqm/image-15.jpg"
+    },
+    "atAGlance": {
+      "Institution": "HKUx",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "This program is designed to attract an audience as: Developers or anyone interested in building Java applications. | This is the 1st part of a 3-part certificate. | Technical professionals familiar with a programming language object-oriented.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyUCAR.jpg",
+    "courseDetails": "Blockchain is a core technology in FinTech. The original design of blockchain focused on the cryptocurrency 'Bitcoin'. Due to its specific characteristics, many companies and users now find blockchain very useful for applications in many areas, not limited to cybercurrencies, including finance, logistics, insurance, medicine and even music. However, the design of blockchain involves cryptographic technology, which cannot be easily understood by those who are not professionals in the area of IT and security.  In order to better understand what kinds of applications best fit blockchain and other forms of distributed ledger technology and the potentials of these emerging technologies, it is important to understand the design rationale, the basic technology, the underlying cryptographic fundamentals, and its limitations. The course aims at targeting a wide audience: This course will provide learners a good understanding of the technological, applicability, limitations and 'illegal' usage of the blockchain technology. "
+  },
+  {
+    "id": "505",
+    "categoryId": "05",
+    "rating": "4.8",
+    "enrolled": 12933,
+    "timeRequire": { "week": 9, "perDay": 6 },
+    "courseStatus": "Paid",
+    "courseTitle": "Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",
+    "instructor": {
+      "name": "Stephen Curran",
+      "img": "https://i.ibb.co/vJN3m4Q/image-2.jpg"
+    },
+    "atAGlance": {
+      "Institution": "LinuxFoundation",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "Basic HTML, CSS & JavaScript Skills. |  Basic understanding of Cloud. | Basic understanding of Cloud DevOps and Git concepts. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyUDeg.jpg",
+    "courseDetails": "To the surprise of absolutely no one, trust is broken on the Internet. Wherever you go online, the advice is the same--make sure you understand what's behind each button before you click it.  In this course, we'll dive into three Hyperledger open source projects--Indy, Aries and Ursa--looking at the tools, libraries, and reusable components they provide for creating and using independent digital identities rooted on blockchains or other distributed ledgers. We will explore the possibilities they offer for building applications on a solid digital foundation of trust and examine how these technologies can make the Internet safe. It's quite a challenge!  The course is addressed to a wide-ranging audience, walking the line between business and technology."
+  },
+  {
+    "id": "506",
+    "categoryId": "05",
+    "rating": "4.3",
+    "enrolled": 23002,
+    "timeRequire": { "week": 8, "perDay": 8 },
+    "courseStatus": "Free",
+    "courseTitle": "Introduction to FinTech",
+    "instructor": {
+      "name": "Ravi Ramamoorthi",
+      "img": "https://i.ibb.co/9tn87kH/image-10.jpg"
+    },
+    "atAGlance": {
+      "Institution": "HKUx",
+      "Subject": "Economics & Finance",
+      "Level": "Intermediate",
+      "Prerequisites": "Familiarity with Cloud concepts and terminology. | Basic literacy in Cloud Application Development. | Basic knowledge of HTML and Javascript. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyUtCc.jpg",
+    "courseDetails": "Over the past decade emerging technologies, paired with massive changes in regulations, have driven an unprecedented transformation of finance around the world. This process is happening more rapidly in China and Asia than anywhere else. This course is designed to explore FinTech fundamentals and help make sense of this wave of change as it happens.  New players such as start-ups and technology firms are challenging traditional players in finance, bringing democratization, inclusion and disruption. Companies engaged in social media, e-commerce, and telecommunications, as well as, companies and start-ups with large customer data pools, creative energies, and technical capacities, have brought competition to the existing financial infrastructure and are remaking the industry.  These transformations have not only created challenges but also unprecedented opportunities, building synergies with new business and regulatory models, particularly in emerging markets and developing countries. To meet these changes, 21st-century professionals and students must be equipped with up-to-date knowledge of the industry and its incredible evolution. This course - designed by HKU with the support of SuperCharger and the Centre for Finance, Technology and Education - is designed to enable learners with the necessary tools to understand the complex interaction of finance, technology and regulation.  In this course, through a series of video lectures, case studies, and assessments you will explore the major areas of FinTech including, beginning with What is FinTech before turning to Money, Payment and Emerging Technologies, Digital Finance and Alternative Finance, FinTech Regulation and RegTech, Data and Security, and the Future of Data Driven Finance, as well as, the core technologies driving FinTech including Blockchain, AI and Big Data. These will set the stage for understanding the FinTech landscape and ecosystem and grappling with the potential direction of future change."
+  },
+  {
+    "id": "601",
+    "categoryId": "06",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 8, "perDay": 10 },
+    "courseStatus": "Free",
+    "courseTitle": "Cybersecurity Fundamentals",
+    "instructor": {
+      "name": "Jonathan S. Weissman",
+      "img": "https://i.ibb.co/Ky92Y09/image-14.jpg"
+    },
+    "atAGlance": {
+      "Institution": "RITx",
+      "Subject": "Computer Science",
+      "Level": "  Advanced",
+      "Prerequisites": "This course has no formal prerequisites. | Network and system administration fundamentals | Basic cryptography concepts",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyNwix.jpg",
+    "courseDetails": "In this introduction to the field of computing security, you will be given an extensive overview of the various branches of computing security. You will learn cybersecurity concepts, issues, and tools that are critical in solving problems in the computing security domain.  You will have opportunities to learn essential techniques in protecting systems and network infrastructures, analyzing and monitoring potential threats and attacks, devising and implementing security solutions for organizations large or small.  This offering is part of the RITx Cybersecurity MicroMasters Program that prepares students to enter and advance in the field of computing security."
+  },
+  {
+    "id": "602",
+    "categoryId": "06",
+    "rating": "5.0",
+    "enrolled": 3456,
+    "timeRequire": { "week": 6, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Introduction to Cybersecurity",
+    "instructor": {
+      "name": "Barbara Endicott-Popovsky",
+      "img": "https://i.ibb.co/X2Zy4jp/image-1.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UWashington",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "Students are expected to have taken the previous course in the series. | Cryptocurrencies: Bitcoin and the Crypto Space. |  Curiosity and interest in cybersecurity ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyNTno.jpg",
+    "courseDetails": "This course serves as an introduction to the exciting field of cybersecurity.  As our daily lives become more and more dependent on Internet-based tools and services, and as those platforms accumulate more of our most sensitive data, the demand grows for experts in the field of cybersecurity.  In this course, you will gain an overview of the cybersecurity landscape as well as national (USA) and international perspectives on the field. We will cover the legal environment that impacts cybersecurity as well as predominant threat actors."
+  },
+  {
+    "id": "603",
+    "categoryId": "06",
+    "rating": "4.7",
+    "enrolled": 2356,
+    "timeRequire": { "week": 11, "perDay": 4 },
+    "courseStatus": "Paid",
+    "courseTitle": "Cybersecurity and Privacy in the IoT",
+    "instructor": {
+      "name": "Nazanin Mohammadi",
+      "img": "https://i.ibb.co/RHw0P6F/image-8.jpg"
+    },
+    "atAGlance": {
+      "Institution": "CurtinX",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "However, the course does assume familiarity with computers and common software | Understanding of Cloud Computing concepts and terminology. | No prior knowledge of Computer Programming.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyN7v1.jpg",
+    "courseDetails": "As the Internet of Things (IoT) continues to grow so will the number of privacy and security concerns and issues. As a professional working in the field, it is essential to understand the potential security risks and how to best mitigate them.  In this course, you will learn about security and privacy issues in IoT environments. We’ll explore the organizational risks posed by IoT networks, and the principles of IoT device vulnerabilities. We’ll also look at software and hardware IoT Applications for industry.  With billions of devices tracking our every move, privacy is a critical issue. We will explore and discuss the social and commercial implications the IoT brings to society."
+  },
+  {
+    "id": "604",
+    "categoryId": "06",
+    "rating": "3.9",
+    "enrolled": 3475,
+    "timeRequire": { "week": 12, "perDay": 6 },
+    "courseStatus": "Paid",
+    "courseTitle": "Cybersecurity for Critical Urban Infrastructure",
+    "instructor": {
+      "name": "Dr. Lawrence Susskind",
+      "img": "https://i.ibb.co/gyjS7bq/image-12.jpg"
+    },
+    "atAGlance": {
+      "Institution": "MITx",
+      "Subject": "Computer Science",
+      "Level": "Advanced",
+      "Prerequisites": "This program is designed to attract an audience as: Developers or anyone interested in building Java applications. | This is the 1st part of a 3-part certificate. | Technical professionals familiar with a programming language object-oriented.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyNUUL.jpg",
+    "courseDetails": "Critical urban infrastructure including energy, transportation, waste management, emergency service and communication systems are being hacked remotely by cyber attackers. These hackers use ransomware to encrypt the data cities need to run; then, they demand that public agencies pay a ransom to get their own data back. The costs associated with cyber attacks are substantial, extending to tens of millions of dollars to recreate data that are lost, and undermine the reputation of city governments across America.  This course will prepare anyone who wants to work with agencies that are worried about their vulnerability to cyberattack. Topics include: • Who are the attackers and what are their methods? • What are the “defensive social engineering” moves cities can use to protect themselves? • What are the minimum security standards that all public agencies need to meet? • Who should have responsibility for overseeing cybersecurity in a public agency? • Should cities be willing to pay the ransoms demanded by hackers? • What should a city do after it has been attacked? • What are the most important lessons drawn by cities that have already been attacked?  Through a series of explanatory videos (prepared by industry experts), case studies of an actual attack, role play simulations and debriefings, and short assigned readings, you will learn what cities can and should do to reduce their vulnerabilities. The course also includes checklists of various kinds that cybersecurity vulnerability assessors need to ask and answer."
+  },
+  {
+    "id": "605",
+    "categoryId": "06",
+    "rating": "4.8",
+    "enrolled": 12933,
+    "timeRequire": { "week": 9, "perDay": 6 },
+    "courseStatus": "Free",
+    "courseTitle": "Building a Cybersecurity Toolkit",
+    "instructor": {
+      "name": "David Aucsmith",
+      "img": "https://i.ibb.co/vJN3m4Q/image-2.jpg"
+    },
+    "atAGlance": {
+      "Institution": "UWashington",
+      "Subject": "Computer Science",
+      "Level": "Introductory",
+      "Prerequisites": "Curiosity and interest in cybersecurity |  Basic understanding of Cloud. | Basic understanding of Cloud DevOps and Git concepts. ",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyN5kj.jpg",
+    "courseDetails": "Technologies are always being defeated.  If you own an information asset that’s valuable enough to the right adversary, it’s only a matter of time before there’s a breach. Today’s technologies attempt to keep adversaries out, but the sad fact is they will inevitably be defeated. This means a successful cybersecurity professional needs to have an expanded arsenal in their toolkit that extends far beyond technical proficiency.  Cybersecurity professionals need to be agile, multifunctional, flexible, and dynamic given how quickly things can change. They need to be able to adapt to change and problem solve quickly, have diverse knowledge to perform many activities, respond to new threats and shift priorities to meet the challenge of the day.  The purpose of this course is to give learners insight into these type of characteristics and skills needed for cybersecurity jobs and to provide a realistic outlook on what they really need to add to their “toolkits” – a set of skills that is constantly evolving, not all technical, but fundamentally rooted in problem-solving.  Students will learn from thought leaders from both the academic and practitioner communities."
+  },
+  {
+    "id": "606",
+    "categoryId": "06",
+    "rating": "4.3",
+    "enrolled": 23002,
+    "timeRequire": { "week": 8, "perDay": 8 },
+    "courseStatus": "Free",
+    "courseTitle": "Unlocking Information Security I: From Cryptography to Buffer Overflows",
+    "instructor": {
+      "name": "Dan Gittik",
+      "img": "https://i.ibb.co/JjRpQyH/image-6.jpg"
+    },
+    "atAGlance": {
+      "Institution": "TelAvivUniversity",
+      "Subject": "Computer Science",
+      "Level": "Intermediate",
+      "Prerequisites": "The course includes optional programming exercises that require familiarity with the Python programming language. | While the course can be completed with great benefit without solving them, we highly recommend you give them a try. | The course also assumes some mathematical maturity, including algebra, basic combinatorics, and probability.",
+      "Language": "English",
+      "VideoTranscript": "English"
+    },
+    "thumbnailUrl": "https://imgpile.com/images/TyNurP.jpg",
+    "courseDetails": "Information Security is everywhere: as the world becomes more and more digitized, so it becomes more and more hackable. Cyber attacks, data breaches, and even cyber warfare are all very real - so it is infinitely important to understand how hackers think and act, and how you can fight back.  In this course, which is the first part of the Unlocking Information Security program, you will learn the basic terminology and concepts in the field of information security. You will explore different types of vulnerabilities through famous examples of design flaws, implementation bugs and social engineering.  You will then move on to discover the art of cryptography, from ancient times to the modern era, and learn about famous ciphers, how they can be cracked, and what can be done to thwart such attacks. Next, you will learn about an important aspect of cryptography that involves no secrets at all: hash functions. You will understand what they are, how they can be used, and how they can be attacked.  You will then combine everything you've learned and take a critical view of different authentication schemes: passwords, challenge-response systems and biometrics. Finally, you will learn about the most critical vulnerability of all times - Buffer Overflow.  This course was produced at Tel Aviv University by TAU Online - learning innovation center."
+  }
+]

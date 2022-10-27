@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "name": "Full Stack Development"
+  },
+  {
+    "id": "02",
+    "name": "Data Structure"
+  },
+  {
+    "id": "03",
+    "name": "Game Development"
+  },
+  {
+    "id": "04",
+    "name": "Android Development"
+  },
+  {
+    "id": "05",
+    "name": "Blockchain"
+  },
+  {
+    "id": "06",
+    "name": "Cybersecurity"
+  },
+  {
+    "id": "07",
+    "name": "All Courses"
+  }
+]
